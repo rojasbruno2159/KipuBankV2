@@ -117,7 +117,7 @@ Una vez configurado, el contrato:
 ## Resumen de Configuración
 
 | Parámetro | Descripción | Ejemplo |
-
-| _bankCapUsd | Límite global de depósitos (en 6 decimales) | "1000000000" (1.000 USDC) |
-| _withdrawLimitPerTxNative | Límite máximo por retiro de ETH | "100000000000000000" (0.1 ETH) |
-| _ethUsdFeed | Feed Chainlink ETH/USD (Sepolia) | "0x694AA1769357215DE4FAC081bf1f309aDC325306" |
+|------------|--------------|----------|
+| `_bankCapUsd` | Límite global de depósitos (en 6 decimales) | `1000000000` (1.000 USDC) |
+| `_withdrawLimitPerTxNative` | Límite máximo por retiro de ETH | `100000000000000000` (0.1 ETH) |
+| `_ethUsdFeed` | Feed Chainlink ETH/USD (Sepolia) | `0x694AA1769357215DE4FAC081bf1f309aDC325306` |
